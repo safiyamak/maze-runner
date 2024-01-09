@@ -27,7 +27,9 @@ Maze Runner is a Java-based maze-solving game that provides an engaging and dyna
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/maze-runner.git
+2. **Navigate to Repository and Run**
+   ```bash
    cd maze-runner
    javac MazeRunner.java
    java MazeRunner
-
+3. **Follow terminal instructions**
